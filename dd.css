@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+table{
+    border: none;
+    margin: auto;
+    margin-top: 200px;
+}
+.w17{
+   background: yellow;
+   color: black;
+}
+th,td{
+   padding: 10px 50px ;
+ }
+ .box1{
+    background: red;
+ }
+ .box2{
+background: rgb(220, 20, 94);
+ }
+tr :hover,
+td :hover{
+   background-image:linear-gradient(to right,rgba(174, 108, 10, 0.76),rgba(0, 255, 38, 0.815),rgb(204, 255, 0)) ;
+}
+marquee{
+   color: black;
+   font-family: 'Courier New', Courier, monospace;
+}
+

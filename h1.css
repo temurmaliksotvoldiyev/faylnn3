@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: dotted;
+   
+    border: none;
+}
+.container{
+    height: 95vh;
+    background-image: url(./svg1.svg), url(./svg2.svg), url(./svg3.svg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: -50% 100%,150% 100%,45% 100%;
+    background-color: #404eed;
+}
+.img{
+    width: 200px;
+  
+    padding-top: 30px;
+    margin-left: 40px;
+}
+a{
+    color: white;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: none;
+
+
+}
+.l1:hover {
+    transition: 0,5s;
+    border-bottom: white ;
+   
+}
+.links{
+    display: flex;
+    gap: 40px;
+    padding-left: 5px;
+    padding-top: 12px;
+    
+}
+.e1{
+    width: 70px;
+    margin-right: 60px;
+    height: 40px;
+    border-radius: 50px;
+    color: black;
+}
+button:hover{
+    color: blue;
+    box-shadow: 2px 2px 3px rgb(5,5,69);
+}
+h1{
+    font-size:40px ;
+    font-size:50px ;
+   
+}
+.box1{
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.button1{ 
+    margin-top: 20px;
+    width: 200px;
+    height: 45px;
+    color: black;
+    border-radius: 30px;
+}
+.button2{
+    width: 250px;
+    height: 45px;
+    background: black;
+    color: white;
+    border-radius: 30px;
+}
+
+.nima0{
+    margin-top: 100px;
+    margin-left: 70px;
+    margin-right: 50px;
+    height: 50vh;
+    background-image: url(./6582c18a9cff186bd3731704_Create\ an\ invite-only\ place\ where\ you\ belong.svg);
+    background-repeat: no-repeat;
+   
+}
+.nima2{
+    margin-left: 700px;
+    padding: 50px;
+    
+}
+.moll2{
+   padding-bottom: 100px
+;
+    height: 50vh;
+    background-image: url(./6582c1b717efff2306ef179e_Where\ hanging\ out\ is\ easy.svg);
+    background-repeat: no-repeat;
+    margin-left: 700px;
+}
+.moll{
+    height:0px;
+    padding: 20px 50px;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 20px;
+    
+}
+.qoy{
+    margin-top: 200px;
+    height: 40vh;
+    background-image: url(https://assets-global.website-files.com/6257adef93867e50d84d30e2/6582c1d8348e5c81ca608138_From%20few%20to%20a%20fandom.svg);
+    background-repeat: no-repeat;
+}
+
+.qoy2{
+    margin-left: 800px;
+   padding-top: 100px;
+}
+.m1{
+    font-size:45px ;
+}
+.p1{
+    text-align: center;
+    margin-top: 200px;
+}
+.p2{
+    height: 90vh;
+    background-image: url(https://assets-global.website-files.com/6257adef93867e50d84d30e2/6582c202770f02752be44796_RELIABLE%20TECH%20FOR%20STAYING%20CLOSE.svg);
+    background-repeat: no-repeat;
+  margin-left: 240px;
+}
+.k1{
+    text-align: center;
+}
+.r1{
+  margin-bottom: 40px;
+    width: 250px;
+    height: 45px;
+    background: dodgerblue;
+    color: white;
+    border-radius: 30px;
+}
+.j1{
+    margin-top: 80px;
+   
+}
+.m1{
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+
